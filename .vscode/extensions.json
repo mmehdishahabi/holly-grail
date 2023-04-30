@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "syler.sass-indented",
+    "sibiraj-s.vscode-scss-formatter",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "formulahendry.auto-close-tag",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css"
+  ]
+}
